@@ -12,6 +12,7 @@ body{
     font-family: sans-serif;
     padding: 0;
     margin: 0;
+    background-image: linear-gradient(to bottom,#e56969,#a4f837)
 }
 .todoForm{
     width: 100%;
@@ -43,9 +44,9 @@ body{
     padding: 1.3rem;
     margin-top: 1.3rem;
 }
-.todoname{
+/* .todoname{
 
-}
+} */
 .deletebutton{
     width: 6.2rem;
     border: none;
